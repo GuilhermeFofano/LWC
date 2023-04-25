@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+  }
+  
+  .div1 {
+    margin-top: 20px;
+  }
+  
+  .div2 {
+    margin-top: 20px;
+  }
+  
+  .div3 {
+    margin-top: 20px;
+  }
+  
+  .lightning-button {
+    margin-top: 20px;
+  }
